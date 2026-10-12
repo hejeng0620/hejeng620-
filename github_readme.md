@@ -12,7 +12,8 @@
 | **GitHub** | <https://github.com/your-account> | 
 
 ### 📷 個人照片
-<img width="1080" height="2220" alt="Screenshot_20240523-110157" src="https://github.com/user-attachments/assets/cd0cc62d-e859-43f8-8ee3-4bc737edd1dd" />
+<img width="508" height="461" alt="截圖 2026-10-12 下午11 22 12" src="https://github.com/user-attachments/assets/7f23412b-6e32-403c-8aa3-ed921c4059d8" />
+
 
 ## 2. 關於我 (About Me)
 
